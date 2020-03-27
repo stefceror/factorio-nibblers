@@ -1,0 +1,11 @@
+{
+  "name": "Nibblers",
+  "version": "0.0.1",
+  "title": "Nibblers",
+  "author": "stefceror",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.17"],
+  "description": "Like biters but tiny.  But careful, they're quick little buggers."
+}
